@@ -22,3 +22,7 @@ regardless of capitalization.
 ### rock_paper_scissors.py
 A Rock-Paper-Scissors game where the user plays against the computer. Uses the random 
 module to generate the computer's choice and compares it against user input to determine the winner.
+
+### multiplication_table_generator.py
+Generates multiplication tables (2 to 20) and writes each one to its own text file inside 
+a `tables/` folder, automatically creating the folder if it doesn't exist.
