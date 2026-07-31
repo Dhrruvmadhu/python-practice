@@ -25,4 +25,4 @@ module to generate the computer's choice and compares it against user input to d
 
 ### multiplication_table_generator.py
 Generates multiplication tables (2 to 20) and writes each one to its own text file inside 
-a `tables/` folder, automatically creating the folder if it doesn't exist.
+a `tables/` folder,  create the folder if it doesn't exist 
